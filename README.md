@@ -1,6 +1,7 @@
 ## Oiii eu sou o igor, Desenvolvedor Front-end
 <div>
-<div align="center">
+# 📊 GitHub Stats:
+ <div align="center">
   <a href="https://github.com/igormorantos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igormorantos&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Github">
@@ -10,8 +11,8 @@
         alt="Linguagens mais usadas">
     </a>
 </div>
-  
-  ### Linguagens e etc
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ # 💻 Tech Stack:
 
   <div style="display: inline_block"><br>
   <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,8 +25,9 @@
  
 
 </div>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-  ### Softwares:
+  # Softwares:
 
 <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/> </a>
