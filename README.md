@@ -27,7 +27,7 @@
 </div>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-  ### Softwares:
+  #🖥️ Softwares:
 
 <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/> </a>
@@ -43,3 +43,7 @@
   <a href="https://www.linkedin.com/in/igor-santos-740b58190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+  
+![](https://github.com/igormorantos/igormorantos/blob/main/imgs/bottom_header.svg)
