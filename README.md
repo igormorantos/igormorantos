@@ -34,10 +34,8 @@
 <img align="left" alt="blender" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"/> </a>
 <img align="left" alt="figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/> </a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br />
-<br />
-  
   <div> 
 
   <a href="https://instagram.com/igorborden" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
