@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Igor+Moreira;I'm+Front+End+Developer;And+doing+Software+Engineer+college;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align=center>
-
- # 📊 GitHub Stats:
   
  ![](https://github-readme-stats.vercel.app/api?username=igormorantos&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=igormorantos&theme=dark&hide_border=true)
@@ -32,12 +30,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-  #🖥️ Softwares:
+ ##🖥️ Softwares:
 <div align=center>
-<img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/> </a>
-<img align="left" alt="blender" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"/> </a>
-<img align="left" alt="figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/> </a>
+<img align="center" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/>
+<img align="center" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>
+<img align="center" alt="blender" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"/>
+<img align="center" alt="figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
