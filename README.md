@@ -5,11 +5,11 @@
 <style>
   .container {
     display: flex;
-    justify-content: space-between; /* Espaço entre as divs */
+    justify-content: space-between;
   }
 
   .tech-stack, .socials {
-    flex: 1; /* As divs ocupam o mesmo espaço horizontalmente */
+    flex: 1;
     padding: 10px;
     border: 1px solid #ccc;
   }
