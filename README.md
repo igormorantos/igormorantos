@@ -10,7 +10,7 @@
   <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="igor-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="igor-PostgreSql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="igor-PostgreSq" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
  </div>
 
   <h2>💻 Socials</h2>
