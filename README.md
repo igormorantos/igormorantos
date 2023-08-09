@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Igor+Moreira;I'm+BackEnd+Developer;And+doing+Software+Engineer+college;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align=center>
-  
- ![](https://github-readme-stats.vercel.app/api?username=igormorantos&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
- ![](https://github-readme-streak-stats.herokuapp.com/?user=igormorantos&theme=dark&hide_border=true)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igormorantos&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
- 
-</div>
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  # 💻 Tech Stack:
   <div align=center>
