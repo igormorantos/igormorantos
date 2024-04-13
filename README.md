@@ -21,6 +21,7 @@
     <img  alt="igor-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     <img  alt="igor-Kubernets" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
     <img  alt="igor-rabbitMQ" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
+    <img  alt="igor-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   </div>
 
   <div>
